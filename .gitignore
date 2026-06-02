@@ -1,0 +1,30 @@
+# Compiled Java
+*.class
+
+# Build output
+/build/
+/target/
+/out/
+
+# Tomcat work/temp
+work/
+temp/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+Thumbs.db
+.DS_Store
+
+# 민감정보 (자격증명 외부화 시)
+*.env
+db.properties
